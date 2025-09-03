@@ -56,6 +56,7 @@ Here are some of my favorite and most interesting projects:
 
 - Open to collaboration! Feel free to fork, open issues, or contribute to any of my projects.
 - Reach me via [GitHub Profile](https://github.com/BeastTheNinja)
+- Note that im currently a web developer student
 
 ---
 
