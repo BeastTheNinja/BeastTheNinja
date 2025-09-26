@@ -11,7 +11,7 @@ Here are some of my favorite and most interesting projects:
 - **[ToDoAppTDA](https://github.com/BeastTheNinja/ToDoAppTDA):**  
   A wonderful project on how to make a simple app.
   
-  *Tech stack:* HTML, CSS, JavaScript
+  *Tech stack:* HTML, CSS, SCSS, JavaScript
 
 - **[Learn To LocalStorage](https://github.com/BeastTheNinja/Learn_To_LocalStorage):**  
   I have been learning how to use localstorage with json, stringify and parse.
