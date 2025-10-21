@@ -42,6 +42,7 @@ Here are some of my favorite and most interesting projects:
 - Responsive web design // Learned
 - JavaScript ES6+ // in progeress learning
 - Basic Git workflows // in progress to learn
+- node.js and MySQL
 - React fundamentals // will come at a later date
 
 ---
