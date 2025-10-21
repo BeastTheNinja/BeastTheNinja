@@ -1,29 +1,32 @@
 # 🧑‍💻 BeastTheNinja
 
-Welcome! I’m an aspiring Front-End Developer passionate about web technologies and constantly learning new skills.
+Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects to grow my skills.
 
 ---
 
-## 🌟 Portfolio Highlights
+## 🌟 Featured Projects
 
-Here are some of my favorite and most interesting projects:
+Here are some of my favorite and most recent projects:
+
+- **[Project_Store_Front](https://github.com/BeastTheNinja/Project_Store_Front):**  
+  My latest school project — a production-ready storefront built from scratch, emphasizing user experience, responsive design, and robust front-end architecture.
+  
+  *Tech stack:* JavaScript, CSS, SCSS, HTML
 
 - **[ToDoAppTDA](https://github.com/BeastTheNinja/ToDoAppTDA):**  
-  A wonderful project on how to make a simple app.
+  A simple and effective to-do list application, demonstrating core CRUD operations and design principles.
   
   *Tech stack:* HTML, CSS, SCSS, JavaScript
 
 - **[Learn To LocalStorage](https://github.com/BeastTheNinja/Learn_To_LocalStorage):**  
-  I have been learning how to use localstorage with json, stringify and parse.
+  A project focused on mastering browser localStorage, including JSON stringify/parse techniques for persistent data.
    
   *Tech stack:* HTML, CSS, JavaScript
 
 - **[Learn to DataStrukture](https://github.com/BeastTheNinja/Learn_to_DataStruktur):**  
-  I have also learned a small amount on how to make use and make simple and complicated data structures.
+  Exploring data structures in JavaScript, from simple arrays to more complex objects.
     
   *Tech stack:* HTML, CSS, JavaScript
-
-
 
 ---
 
@@ -35,17 +38,19 @@ Here are some of my favorite and most interesting projects:
 ![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) - //React will come later
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) <!-- React coming soon -->
 
 ---
 
 ## 📚 Learning Journey
 
-- Responsive web design // Learned
-- JavaScript ES6+ // in progeress of learning
-- Basic Git workflows // in progress of learning
-- node.js and MySQL // in progress of learning
-- React fundamentals // will come at a later date
+- Responsive web design – completed
+- JavaScript ES6+ – actively learning
+- Basic Git workflows – actively learning
+- Node.js and MySQL – in progress
+- React fundamentals – coming soon
+- Advanced CSS/SCSS – recent focus
+- Building production projects – ongoing
 
 ---
 
@@ -60,7 +65,7 @@ Here are some of my favorite and most interesting projects:
 
 - Open to collaboration! Feel free to fork, open issues, or contribute to any of my projects.
 - Reach me via [GitHub Profile](https://github.com/BeastTheNinja)
-- Note that im currently a web developer student
+- Currently a web developer student, always eager to learn and connect.
 
 ---
 
