@@ -42,9 +42,9 @@ Here are some of my favorite and most interesting projects:
 ## 📚 Learning Journey
 
 - Responsive web design // Learned
-- JavaScript ES6+ // in progeress learning
-- Basic Git workflows // in progress to learn
-- node.js and MySQL
+- JavaScript ES6+ // in progeress of learning
+- Basic Git workflows // in progress of learning
+- node.js and MySQL // in progress of learning
 - React fundamentals // will come at a later date
 
 ---
