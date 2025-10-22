@@ -1,6 +1,6 @@
 # 🧑‍💻 BeastTheNinja
 
-Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects to grow my skills.
+Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects and technologies — check out my portfolio below!
 
 ---
 
@@ -30,6 +30,24 @@ Here are some of my favorite and most recent projects:
 
 ---
 
+## 🔄 Ongoing Project: SgtPrepper Full Stack Learning
+
+I’m currently working on a full stack project with my teacher, learning how to use Node.js with a custom API and integrating databases using MySQL. This project is split into two parts:
+
+- **Frontend:**  
+  [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher)  
+  Building user interfaces and connecting to the backend API, focusing on dynamic data and modern JavaScript/HTML practices.  
+  *Languages:* JavaScript (90%), HTML (10%)
+
+- **Backend/API:**  
+  [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma)  
+  Developing a backend API with TypeScript and Prisma for efficient data management and fast development workflows.  
+  *Language:* TypeScript (100%)
+
+This is an ongoing learning journey, and I’m continuously updating and improving both sides as I learn new technologies and best practices.
+
+---
+
 ## 🚀 Tech Stack
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -51,6 +69,7 @@ Here are some of my favorite and most recent projects:
 - React fundamentals – coming soon
 - Advanced CSS/SCSS – recent focus
 - Building production projects – ongoing
+- **Full Stack API integration** — current challenge
 
 ---
 
@@ -66,6 +85,15 @@ Here are some of my favorite and most recent projects:
 - Open to collaboration! Feel free to fork, open issues, or contribute to any of my projects.
 - Reach me via [GitHub Profile](https://github.com/BeastTheNinja)
 - Currently a web developer student, always eager to learn and connect.
+
+---
+
+## 💡 Extra: How I Learn & Work
+
+- I believe in hands-on practice and learning by building real-world projects.
+- I value code readability, maintainability, and user experience.
+- I often document my progress and challenges in my commit history and README files.
+- Seeking feedback and collaboration is how I grow as a developer.
 
 ---
 
