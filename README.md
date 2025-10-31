@@ -37,12 +37,12 @@ I’m currently working on a full stack project with my teacher, learning how to
 - **Frontend:**  
   [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher)  
   Building user interfaces and connecting to the backend API, focusing on dynamic data and modern JavaScript/HTML practices.  
-  *Languages:* JavaScript (90%), HTML (10%)
+  *Languages:* JavaScript, HTML, SCSS
 
 - **Backend/API:**  
   [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma)  
   Developing a backend API with TypeScript and Prisma for efficient data management and fast development workflows.  
-  *Language:* TypeScript (100%)
+  *Language:* TypeScript
 
 This is an ongoing learning journey, and I’m continuously updating and improving both sides as I learn new technologies and best practices.
 
@@ -67,7 +67,7 @@ This is an ongoing learning journey, and I’m continuously updating and improvi
 - Basic Git workflows – actively learning
 - Node.js and MySQL – in progress
 - React fundamentals – coming soon
-- Advanced CSS/SCSS – recent focus
+- Advanced CSS/SCSS – completed
 - Building production projects – ongoing
 - **Full Stack API integration** — current challenge
 
