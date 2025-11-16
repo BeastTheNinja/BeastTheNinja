@@ -1,6 +1,8 @@
 # 🧑‍💻 BeastTheNinja
 
-Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects and technologies — check out my portfolio below!
+[![Profile views](https://komarev.com/ghpvc/?username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
+
+Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new proj[...]
 
 ---
 
