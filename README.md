@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
 
-Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new proj[...]
+Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects — below are highlights of what I’ve built, what I’m learning, and what I’m currently working on.
 
 ---
 
@@ -11,42 +11,32 @@ Welcome! I’m an aspiring Front-End Developer passionate about web technologies
 Here are some of my favorite and most recent projects:
 
 - **[Project_Store_Front](https://github.com/BeastTheNinja/Project_Store_Front):**  
-  My latest school project — a production-ready storefront built from scratch, emphasizing user experience, responsive design, and robust front-end architecture.
-  
+  My latest school project — a production-ready storefront built from scratch, emphasizing user experience, responsive design, and robust front-end architecture.  
   *Tech stack:* JavaScript, CSS, SCSS, HTML
 
 - **[ToDoAppTDA](https://github.com/BeastTheNinja/ToDoAppTDA):**  
-  A simple and effective to-do list application, demonstrating core CRUD operations and design principles.
-  
+  A simple and effective to-do list application, demonstrating core CRUD operations and design principles.  
   *Tech stack:* HTML, CSS, SCSS, JavaScript
 
-- **[Learn To LocalStorage](https://github.com/BeastTheNinja/Learn_To_LocalStorage):**  
-  A project focused on mastering browser localStorage, including JSON stringify/parse techniques for persistent data.
-   
-  *Tech stack:* HTML, CSS, JavaScript
+- **SgtPrepper — Full Stack Learning (featured & completed)**  
+  A hands-on full-stack project I completed with my teacher. I built the frontend that connects to a custom backend API and worked with MySQL and TypeScript/Prisma on the server side.
+  - Frontend: [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher) — JavaScript, HTML, SCSS  
+  - Backend/API: [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma) — TypeScript
 
-- **[Learn to DataStrukture](https://github.com/BeastTheNinja/Learn_to_DataStruktur):**  
-  Exploring data structures in JavaScript, from simple arrays to more complex objects.
-    
-  *Tech stack:* HTML, CSS, JavaScript
+- **[Learn_To_Node_Commands_Terminal](https://github.com/BeastTheNinja/Learn_To_Node_Commands_Terminal):**  
+  My newest repo focused on learning Node.js from the terminal: creating packages, npm workflows, and setting up projects via CLI.  
+  *Tech stack:* JavaScript, TypeScript (learning)
 
 ---
 
-## 🔄 Ongoing Project: SgtPrepper Full Stack Learning
+## 🔄 Ongoing Projects (what I'm actively working on)
 
-I’m currently working on a full stack project with my teacher, learning how to use Node.js with a custom API and integrating databases using MySQL. This project is split into two parts:
-
-- **Frontend:**  
-  [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher)  
-  Building user interfaces and connecting to the backend API, focusing on dynamic data and modern JavaScript/HTML practices.  
-  *Languages:* JavaScript, HTML, SCSS
-
-- **Backend/API:**  
-  [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma)  
-  Developing a backend API with TypeScript and Prisma for efficient data management and fast development workflows.  
-  *Language:* TypeScript
-
-This is an ongoing learning journey, and I’m continuously updating and improving both sides as I learn new technologies and best practices.
+- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI design, and responsive layout.  
+  *Tech stack:* JavaScript, SCSS, CSS, HTML
+  
+- **[Learn_To_Node_Commands_Terminal](https://github.com/BeastTheNinja/Learn_To_Node_Commands_Terminal):**  
+  My newest repo focused on learning Node.js from the terminal: creating packages, npm workflows, and setting up projects via CLI.  
+  *Tech stack:* JavaScript, TypeScript (learning)
 
 ---
 
@@ -64,14 +54,15 @@ This is an ongoing learning journey, and I’m continuously updating and improvi
 
 ## 📚 Learning Journey
 
-- Responsive web design – completed
-- JavaScript ES6+ – actively learning
-- Basic Git workflows – actively learning
-- Node.js and MySQL – in progress
-- React fundamentals – coming soon
-- Advanced CSS/SCSS – completed
-- Building production projects – ongoing
-- **Full Stack API integration** — current challenge
+- Responsive web design – completed  
+- JavaScript ES6+ – actively learning  
+- Basic Git workflows – actively learning  
+- Node.js, npm & terminal workflows – actively learning (practical: Learn_To_Node_Commands_Terminal)  
+- Team collaboration & project workflows – actively learning (Info_Board_Group_Two)  
+- React fundamentals – coming soon  
+- Advanced CSS/SCSS – completed  
+- Building production projects – ongoing  
+- **Full Stack API integration** — completed (SgtPrepper) and still applying knowledge in new projects
 
 ---
 
@@ -84,17 +75,17 @@ This is an ongoing learning journey, and I’m continuously updating and improvi
 
 ## 🤝 Connect & Collaborate
 
-- Open to collaboration! Feel free to fork, open issues, or contribute to any of my projects.
-- Reach me via [GitHub Profile](https://github.com/BeastTheNinja)
+- Open to collaboration! Feel free to fork, open issues, or contribute to any of my projects.  
+- Reach me via [GitHub Profile](https://github.com/BeastTheNinja)  
 - Currently a web developer student, always eager to learn and connect.
 
 ---
 
-## 💡 Extra: How I Learn & Work
+## 💡 How I Learn & Work
 
-- I believe in hands-on practice and learning by building real-world projects.
-- I value code readability, maintainability, and user experience.
-- I often document my progress and challenges in my commit history and README files.
+- I believe in hands-on practice and learning by building real-world projects.  
+- I value code readability, maintainability, and user experience.  
+- I often document my progress and challenges in my commit history and README files.  
 - Seeking feedback and collaboration is how I grow as a developer.
 
 ---
