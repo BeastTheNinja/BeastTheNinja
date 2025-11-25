@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
 
-Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects — below are highlights of what I’ve built, what I’m learning, and what I’m currently working on.
+Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects.
 
 ---
 
@@ -23,20 +23,16 @@ Here are some of my favorite and most recent projects:
   - Frontend: [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher) — JavaScript, HTML, SCSS  
   - Backend/API: [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma) — TypeScript
 
-- **[Learn_To_Node_Commands_Terminal](https://github.com/BeastTheNinja/Learn_To_Node_Commands_Terminal):**  
-  My newest repo focused on learning Node.js from the terminal: creating packages, npm workflows, and setting up projects via CLI.  
-  *Tech stack:* JavaScript, TypeScript (learning)
-
 ---
 
 ## 🔄 Ongoing Projects (what I'm actively working on)
 
-- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI design, and responsive layout.  
+- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI design, and deployment.  
   *Tech stack:* JavaScript, SCSS, CSS, HTML
   
-- **[Learn_To_Node_Commands_Terminal](https://github.com/BeastTheNinja/Learn_To_Node_Commands_Terminal):**  
-  My newest repo focused on learning Node.js from the terminal: creating packages, npm workflows, and setting up projects via CLI.  
-  *Tech stack:* JavaScript, TypeScript (learning)
+- **[@BeastTheNinja/Learn_DSI_API_DB](https://github.com/BeastTheNinja/Learn_DSI_API_DB):**  
+  A repository where I’m learning API and database integration (designing APIs, connecting to databases, and practicing backend fundamentals). This continues my journey into full-stack development and working with persistent data.  
+  *Tech stack:* Node.js, MySQL, JavaScript/TypeScript (learning)
 
 ---
 
@@ -57,7 +53,7 @@ Here are some of my favorite and most recent projects:
 - Responsive web design – completed  
 - JavaScript ES6+ – actively learning  
 - Basic Git workflows – actively learning  
-- Node.js, npm & terminal workflows – actively learning (practical: Learn_To_Node_Commands_Terminal)  
+- Node.js, npm & terminal workflows – actively learning (practical: Learn_DSI_API_DB)  
 - Team collaboration & project workflows – actively learning (Info_Board_Group_Two)  
 - React fundamentals – coming soon  
 - Advanced CSS/SCSS – completed  
