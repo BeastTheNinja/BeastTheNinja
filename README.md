@@ -64,8 +64,8 @@ Here are some of my favorite and most recent projects:
 
 ## 📈 GitHub Stats
 
-![BeastTheNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastTheNinja&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastTheNinja&layout=compact&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeastTheNinja&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeastTheNinja&theme=radical)
 
 ---
 
