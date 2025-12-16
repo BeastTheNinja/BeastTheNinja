@@ -34,7 +34,7 @@ Here are some of my favorite and most recent projects:
   A repository where I’m learning API and database integration (designing APIs, connecting to databases, and practicing backend fundamentals). This continues my journey into full-stack development and working with persistent data.  
   *Tech stack:* Node.js, MySQL, JavaScript/TypeScript (learning)
 
-- ** [TechStreetArt](https://github.com/H1WE080125/TechStreetArt):**
+- **[TechStreetArt](https://github.com/H1WE080125/TechStreetArt):**
   A Class project about working together, and make a cool app and site
   *Tech Stack* HTML, SCSS, CSS, JavaScript, TypeScript and geolocation API
 ---
