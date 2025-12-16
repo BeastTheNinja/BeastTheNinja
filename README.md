@@ -30,10 +30,13 @@ Here are some of my favorite and most recent projects:
 - **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI design, and deployment.  
   *Tech stack:* JavaScript, SCSS, CSS, HTML
   
-- **[@BeastTheNinja/Learn_DSI_API_DB](https://github.com/BeastTheNinja/Learn_DSI_API_DB):**  
+- **[Learn_DSI_API_DB](https://github.com/BeastTheNinja/Learn_DSI_API_DB):**  
   A repository where I’m learning API and database integration (designing APIs, connecting to databases, and practicing backend fundamentals). This continues my journey into full-stack development and working with persistent data.  
   *Tech stack:* Node.js, MySQL, JavaScript/TypeScript (learning)
 
+- ** [TechStreetArt](https://github.com/H1WE080125/TechStreetArt):**
+  A Class project about working together, and make a cool app and site
+  *Tech Stack* HTML, SCSS, CSS, JavaScript, TypeScript and geolocation API
 ---
 
 ## 🚀 Tech Stack
