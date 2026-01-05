@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
 
-Welcome! I’m an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I’m always learning and working on new projects.
+Welcome! I'm an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I'm always learning and working on new projects to sharpen my skills.
 
 ---
 
@@ -23,20 +23,21 @@ Here are some of my favorite and most recent projects:
   - Frontend: [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher) — JavaScript, HTML, SCSS  
   - Backend/API: [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma) — TypeScript
 
+- **[TechStreetArt](https://github.com/H1WE080125/TechStreetArt):**  
+  A Class project about working together, and make a cool app and site  
+  *Tech Stack:* HTML, SCSS, CSS, JavaScript, TypeScript and geolocation API
+
+- **[Learn_DSI_API_DB](https://github.com/BeastTheNinja/Learn_DSI_API_DB):**  
+  A repository where I learned API and database integration (designing APIs, connecting to databases, and practicing backend fundamentals).  
+  *Tech stack:* Node.js, MySQL, JavaScript/TypeScript
+
 ---
 
 ## 🔄 Ongoing Projects (what I'm actively working on)
 
-- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI design, and deployment.  
+- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI/UX design, and team workflows.  
   *Tech stack:* JavaScript, SCSS, CSS, HTML
-  
-- **[Learn_DSI_API_DB](https://github.com/BeastTheNinja/Learn_DSI_API_DB):**  
-  A repository where I’m learning API and database integration (designing APIs, connecting to databases, and practicing backend fundamentals). This continues my journey into full-stack development and working with persistent data.  
-  *Tech stack:* Node.js, MySQL, JavaScript/TypeScript (learning)
 
-- **[TechStreetArt](https://github.com/H1WE080125/TechStreetArt):**
-  A Class project about working together, and make a cool app and site
-  *Tech Stack* HTML, SCSS, CSS, JavaScript, TypeScript and geolocation API
 ---
 
 ## 🚀 Tech Stack
@@ -47,7 +48,19 @@ Here are some of my favorite and most recent projects:
 ![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) <!-- React coming soon -->
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+---
+
+## 📖 What I'm Currently Learning
+
+- **[Learn_To_React](https://github.com/BeastTheNinja/Learn_To_React)** — Diving into React fundamentals, components, hooks, and building modern web applications.  
+  *Tech stack:* React, JavaScript
+
+- **Other Learning Projects:**  
+  - Exploring advanced JavaScript patterns  
+  - Deepening my understanding of API design  
+  - Improving my skills with Git workflows and team collaboration
 
 ---
 
@@ -56,9 +69,9 @@ Here are some of my favorite and most recent projects:
 - Responsive web design – completed  
 - JavaScript ES6+ – actively learning  
 - Basic Git workflows – actively learning  
-- Node.js, npm & terminal workflows – actively learning (practical: Learn_DSI_API_DB)  
+- Node.js, npm & terminal workflows – actively learning  
 - Team collaboration & project workflows – actively learning (Info_Board_Group_Two)  
-- React fundamentals – coming soon  
+- React fundamentals – actively learning (Learn_To_React)  
 - Advanced CSS/SCSS – completed  
 - Building production projects – ongoing  
 - **Full Stack API integration** — completed (SgtPrepper) and still applying knowledge in new projects
