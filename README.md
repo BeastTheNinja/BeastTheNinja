@@ -11,24 +11,35 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 
 ## 🚀 Teknologier & værktøjer
 
+### 💻 Frontend / Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+### 🖥️ Scripting / Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+### ⚛️ Framework / Library
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+### 🗄️ Backend / Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 🔄 Lige nu lærer jeg
 
-- React med TypeScript: komponenter, hooks og moderne frontend-arkitektur  
-- Tailwind CSS: utility-first styling og responsive layouts  
-- Avanceret JavaScript (ES6+): mønstre, best practices og integration i projekter  
+💡 Fokus på at udvide mine færdigheder og arbejde med moderne teknologier:  
+
+- ⚛️ React med TypeScript: komponenter, hooks og moderne frontend-arkitektur  
+- 🎨 Tailwind CSS: utility-first styling og responsive layouts  
+- 💻 Avanceret JavaScript (ES6+): mønstre, best practices og integration i projekter  
 
 🔗 Se mit læringsrepo: [Learn_To_React](https://github.com/BeastTheNinja/Learn_To_React)
 
@@ -36,21 +47,21 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 
 ## 🌟 Udvalgte projekter (afsluttede skoleprojekter)
 
-### **Project_Store_Front**
+### 🛒 **Project_Store_Front**
 🔗 https://github.com/BeastTheNinja/Project_Store_Front  
 Produktionsklar webshop bygget fra bunden med fokus på UX, responsivt design og front-end arkitektur.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript
 
 ---
 
-### **ToDoAppTDA**
+### 📝 **ToDoAppTDA**
 🔗 https://github.com/BeastTheNinja/ToDoAppTDA  
 En simpel to-do applikation, der demonstrerer CRUD-funktionalitet og grundlæggende designprincipper.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript
 
 ---
 
-### **SgtPrepper – Full Stack læringsprojekt**
+### 🛠️ **SgtPrepper – Full Stack læringsprojekt**
 Afsluttet full-stack projekt gennemført sammen med underviser.
 
 - **Frontend:**  
@@ -63,21 +74,21 @@ Afsluttet full-stack projekt gennemført sammen med underviser.
 
 ---
 
-### **WallyWood_DB_TS – Selvstændigt databaseprojekt**
+### 🗄️ **WallyWood_DB_TS – Selvstændigt databaseprojekt**
 🔗 https://github.com/BeastTheNinja/WallyWood_DB_TS  
 Et selvstændigt projekt, hvor jeg designede og opsatte en database med TypeScript og MySQL, inklusive CRUD-funktionalitet og API-integration.  
 **Tech stack:** TypeScript, Node.js, MySQL
 
 ---
 
-### **TechStreetArt**
+### 🎨 **TechStreetArt**
 🔗 https://github.com/H1WE080125/TechStreetArt  
 Gruppeprojekt med fokus på samarbejde, kreativitet og interaktive webfeatures.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript, TypeScript, Geolocation API
 
 ---
 
-### **Learn_DSI_API_DB**
+### 🏗️ **Learn_DSI_API_DB**
 🔗 https://github.com/BeastTheNinja/Learn_DSI_API_DB  
 Læringsprojekt med fokus på API-design, databaseintegration og backend-grundprincipper.  
 **Tech stack:** Node.js, MySQL, JavaScript, TypeScript
