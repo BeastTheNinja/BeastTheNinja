@@ -5,7 +5,7 @@
 
 Velkommen 👋  
 Jeg er webudviklerstuderende med fokus på front-end udvikling og moderne webteknologier.  
-Jeg arbejder primært med skoleprojekter og selvstændige projekter, hvor jeg omsætter teori til praksis gennem konkrete løsninger.
+Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætter teori til praksis gennem konkrete løsninger.
 
 ---
 
@@ -24,11 +24,21 @@ Jeg arbejder primært med skoleprojekter og selvstændige projekter, hvor jeg om
 
 ---
 
+## 🔄 Lige nu lærer jeg
+
+- React med TypeScript: komponenter, hooks og moderne frontend-arkitektur  
+- Tailwind CSS: utility-first styling og responsive layouts  
+- Avanceret JavaScript (ES6+): mønstre, best practices og integration i projekter  
+
+🔗 Se mit læringsrepo: [Learn_To_React](https://github.com/BeastTheNinja/Learn_To_React)
+
+---
+
 ## 🌟 Udvalgte projekter (afsluttede skoleprojekter)
 
 ### **Project_Store_Front**
 🔗 https://github.com/BeastTheNinja/Project_Store_Front  
-Mit seneste skoleprojekt – en produktionsklar webshop bygget fra bunden med fokus på brugeroplevelse, responsivt design og struktureret front-end arkitektur.  
+Produktionsklar webshop bygget fra bunden med fokus på UX, responsivt design og front-end arkitektur.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript
 
 ---
@@ -41,15 +51,22 @@ En simpel to-do applikation, der demonstrerer CRUD-funktionalitet og grundlægge
 ---
 
 ### **SgtPrepper – Full Stack læringsprojekt**
-Et afsluttet full-stack projekt gennemført sammen med underviser.
+Afsluttet full-stack projekt gennemført sammen med underviser.
 
 - **Frontend:**  
   🔗 https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher  
-  JavaScript, HTML, SCSS
 
 - **Backend / API:**  
   🔗 https://github.com/BeastTheNinja/prepper-api-ts-prisma  
-  TypeScript, Prisma, MySQL
+
+**Tech stack:** JavaScript, TypeScript, MySQL, Prisma
+
+---
+
+### **WallyWood_DB_TS – Selvstændigt databaseprojekt**
+🔗 https://github.com/BeastTheNinja/WallyWood_DB_TS  
+Et selvstændigt projekt, hvor jeg designede og opsatte en database med TypeScript og MySQL, inklusive CRUD-funktionalitet og API-integration.  
+**Tech stack:** TypeScript, Node.js, MySQL
 
 ---
 
@@ -74,6 +91,6 @@ Læringsprojekt med fokus på API-design, databaseintegration og backend-grundpr
 - Fokus på læsbar kode, struktur og brugeroplevelse  
 - Erfaring med både individuelt arbejde og gruppeprojekter  
 
-Jeg søger løbende muligheder for **praktik, studiejob eller juniorroller** inden for webudvikling.
+Søger løbende muligheder for **praktik, studiejob eller juniorroller** inden for webudvikling.
 
 🔗 https://github.com/BeastTheNinja
