@@ -5,7 +5,7 @@
 
 Welcome 👋  
 I am a web development student focused on front-end development and modern web technologies.  
-I primarily work on school projects and independent projects where I apply theory through practical, real-world solutions.
+I primarily work on school and learning projects where I apply theory through practical, real-world solutions.
 
 ---
 
@@ -24,11 +24,21 @@ I primarily work on school projects and independent projects where I apply theor
 
 ---
 
+## 🔄 Currently Learning
+
+- React with TypeScript: components, hooks, and modern frontend architecture  
+- Tailwind CSS: utility-first styling and responsive layouts  
+- Advanced JavaScript (ES6+): patterns, best practices, and project integration  
+
+🔗 See my learning repo: [Learn_To_React](https://github.com/BeastTheNinja/Learn_To_React)
+
+---
+
 ## 🌟 Featured Projects (Completed)
 
 ### **Project_Store_Front**
 🔗 https://github.com/BeastTheNinja/Project_Store_Front  
-A production-ready storefront built from scratch with a strong focus on UX, responsive design, and front-end architecture.  
+Production-ready storefront built from scratch, with strong focus on UX, responsive design, and front-end architecture.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript
 
 ---
@@ -41,7 +51,7 @@ A simple to-do application demonstrating CRUD functionality and core UI principl
 ---
 
 ### **SgtPrepper – Full Stack Learning Project**
-A completed full-stack project built together with my teacher.
+Completed full-stack project built together with my teacher.
 
 - **Frontend:**  
   🔗 https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher  
@@ -53,16 +63,23 @@ A completed full-stack project built together with my teacher.
 
 ---
 
+### **WallyWood_DB_TS – Independent Database Project**
+🔗 https://github.com/BeastTheNinja/WallyWood_DB_TS  
+An independent project where I designed and set up a database using TypeScript and MySQL, including CRUD functionality and API integration.  
+**Tech stack:** TypeScript, Node.js, MySQL
+
+---
+
 ### **TechStreetArt**
 🔗 https://github.com/H1WE080125/TechStreetArt  
-A group project focused on collaboration and interactive web features.  
+Group project focused on collaboration, creativity, and interactive web features.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript, TypeScript, Geolocation API
 
 ---
 
 ### **Learn_DSI_API_DB**
 🔗 https://github.com/BeastTheNinja/Learn_DSI_API_DB  
-A learning repository focused on API design, database integration, and backend fundamentals.  
+Learning project focused on API design, database integration, and backend fundamentals.  
 **Tech stack:** Node.js, MySQL, JavaScript, TypeScript
 
 ---
