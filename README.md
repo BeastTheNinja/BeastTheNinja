@@ -1,14 +1,14 @@
 # 🧑‍💻 BeastTheNinja
 
-[![Profile views](https://komarev.com/ghpvc/?username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
+[![Profile views](https://komarev.com/ghpvc/? username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
 
-Welcome! I'm an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I'm always learning and working on new projects to sharpen my skills.
+Welcome! I'm an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I'm always learning and working on new projects! 
 
 ---
 
 ## 🌟 Featured Projects
 
-Here are some of my favorite and most recent projects:
+Here are some of my favorite and most recent projects: 
 
 - **[Project_Store_Front](https://github.com/BeastTheNinja/Project_Store_Front):**  
   My latest school project — a production-ready storefront built from scratch, emphasizing user experience, responsive design, and robust front-end architecture.  
@@ -19,7 +19,7 @@ Here are some of my favorite and most recent projects:
   *Tech stack:* HTML, CSS, SCSS, JavaScript
 
 - **SgtPrepper — Full Stack Learning (featured & completed)**  
-  A hands-on full-stack project I completed with my teacher. I built the frontend that connects to a custom backend API and worked with MySQL and TypeScript/Prisma on the server side.
+  A hands-on full-stack project I completed with my teacher. I built the frontend that connects to a custom backend API and worked with MySQL and TypeScript/Prisma on the server side. 
   - Frontend: [SgtPrepper-frontend-code-along-with-teacher](https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher) — JavaScript, HTML, SCSS  
   - Backend/API: [prepper-api-ts-prisma](https://github.com/BeastTheNinja/prepper-api-ts-prisma) — TypeScript
 
@@ -35,7 +35,7 @@ Here are some of my favorite and most recent projects:
 
 ## 🔄 Ongoing Projects (what I'm actively working on)
 
-- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI/UX design, and team workflows.  
+- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UX/UI, and integrating various technologies together.  
   *Tech stack:* JavaScript, SCSS, CSS, HTML
 
 ---
@@ -44,8 +44,9 @@ Here are some of my favorite and most recent projects:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript&logoColor=black)
+![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699? logo=sass&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -54,8 +55,10 @@ Here are some of my favorite and most recent projects:
 
 ## 📖 What I'm Currently Learning
 
-- **[Learn_To_React](https://github.com/BeastTheNinja/Learn_To_React)** — Diving into React fundamentals, components, hooks, and building modern web applications.  
-  *Tech stack:* React, JavaScript
+- **[Learn_To_React](https://github.com/BeastTheNinja/Learn_To_React)** — Diving into React fundamentals, components, hooks, and building modern web applications.   
+  *Tech stack:* React, Typescript Tailwind, Scss
+
+- **Tailwind CSS** — Learning utility-first CSS framework to build modern, responsive designs more efficiently and rapidly. 
 
 - **Other Learning Projects:**  
   - Exploring advanced JavaScript patterns  
@@ -72,9 +75,10 @@ Here are some of my favorite and most recent projects:
 - Node.js, npm & terminal workflows – actively learning  
 - Team collaboration & project workflows – actively learning (Info_Board_Group_Two)  
 - React fundamentals – actively learning (Learn_To_React)  
+- **Tailwind CSS** – **actively learning**  
 - Advanced CSS/SCSS – completed  
 - Building production projects – ongoing  
-- **Full Stack API integration** — completed (SgtPrepper) and still applying knowledge in new projects
+- **Full Stack API integration** — **actively learning**
 
 ---
 
