@@ -1,8 +1,8 @@
 # 🧑‍💻 BeastTheNinja
 
-[![Profile views](https://komarev.com/ghpvc/? username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
+[![Profile views](https://komarev.com/ghpvc/?username=BeastTheNinja&label=Profile%20views&color=blue)](https://komarev.com/ghpvc/?username=BeastTheNinja)
 
-Welcome! I'm an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I'm always learning and working on new projects! 
+Welcome! I'm an aspiring Front-End Developer passionate about web technologies, with a focus on building interactive and user-friendly web applications. I'm always learning and working on new projects to improve my skills.
 
 ---
 
@@ -35,7 +35,7 @@ Here are some of my favorite and most recent projects:
 
 ## 🔄 Ongoing Projects (what I'm actively working on)
 
-- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UX/UI, and integrating various technologies together.  
+- **[Info_Board_Group_Two](https://github.com/BeastTheNinja/Info_Board_Group_Two)** — a group project building an information board for school, focusing on collaborative development practices, UI/UX design, and team coding workflows.  
   *Tech stack:* JavaScript, SCSS, CSS, HTML
 
 ---
@@ -44,8 +44,8 @@ Here are some of my favorite and most recent projects:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript&logoColor=black)
-![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699? logo=sass&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
