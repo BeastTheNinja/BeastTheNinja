@@ -47,6 +47,13 @@ I primarily work on school and learning projects where I apply theory through pr
 
 ## 🌟 Featured Projects (Completed)
 
+### ⚛️ **React_TSX_Vite_Leo_lov** 🚧 (Work in Progress)
+🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
+A responsive one-page website for the law firm Leo-Lov. My first React project focused on TypeScript, components, and responsive design.  
+**Tech stack:** React, TypeScript, Vite, CSS
+
+---
+
 ### 🛒 **Project_Store_Front**
 🔗 https://github.com/BeastTheNinja/Project_Store_Front  
 Production-ready storefront built from scratch, with strong focus on UX, responsive design, and front-end architecture.  
