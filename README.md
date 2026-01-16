@@ -12,20 +12,20 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 ## 🚀 Teknologier & værktøjer
 
 ### 💻 Frontend / Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🖥️ Scripting / Programming
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### ⚛️ Framework / Library
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ### 🗄️ Backend / Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### 🔧 Version Control
@@ -46,6 +46,13 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 ---
 
 ## 🌟 Udvalgte projekter (afsluttede skoleprojekter)
+
+### 🎲 **Terningespil-Gruppe-5** 🚧 (Igangværende gruppeprojekt)
+🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
+Et interaktiv terningespil hvor spillere vælger "højere" eller "lavere" og kaster terningen. Prototype udviklet i samarbejde med Sebastian, Søren og Greta.  
+**Tech stack:** React, TypeScript, Vite, SCSS
+
+---
 
 ### ⚛️ **React_TSX_Vite_Leo_lov** 🚧 (Igangværende)
 🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
