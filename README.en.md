@@ -47,6 +47,13 @@ I primarily work on school and learning projects where I apply theory through pr
 
 ## 🌟 Featured Projects (Completed)
 
+### 🎲 **Terningespil-Gruppe-5** 🚧 (Ongoing Group Project)
+🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
+An interactive dice game where players choose "higher" or "lower" and roll the dice. Prototype developed in collaboration with Sebastian, Søren, and Greta.  
+**Tech stack:** React, TypeScript, Vite, SCSS
+
+---
+
 ### ⚛️ **React_TSX_Vite_Leo_lov** 🚧 (Work in Progress)
 🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
 A responsive one-page website for the law firm Leo-Lov. My first React project focused on TypeScript, components, and responsive design.  
@@ -69,7 +76,7 @@ A simple to-do application demonstrating CRUD functionality and core UI principl
 ---
 
 ### 🛠️ **SgtPrepper – Full Stack Learning Project**
-Completed full-stack project built together with my teacher.
+Completed full-stack project developed alongside instructor.
 
 - **Frontend:**  
   🔗 https://github.com/BeastTheNinja/SgtPrepper-frontend-code-along-with-teacher  
@@ -83,14 +90,14 @@ Completed full-stack project built together with my teacher.
 
 ### 🗄️ **WallyWood_DB_TS – Independent Database Project**
 🔗 https://github.com/BeastTheNinja/WallyWood_DB_TS  
-An independent project where I designed and set up a database using TypeScript and MySQL, including CRUD functionality and API integration.  
+An independent project where I designed and set up a database with TypeScript and MySQL, including CRUD functionality and API integration.  
 **Tech stack:** TypeScript, Node.js, MySQL
 
 ---
 
 ### 🎨 **TechStreetArt**
 🔗 https://github.com/H1WE080125/TechStreetArt  
-Group project focused on collaboration, creativity, and interactive web features.  
+Group project focusing on collaboration, creativity, and interactive web features.  
 **Tech stack:** HTML, CSS, SCSS, JavaScript, TypeScript, Geolocation API
 
 ---
@@ -104,11 +111,11 @@ Learning project focused on API design, database integration, and backend fundam
 
 ## 📚 About Me
 
-- Web development student  
-- Learn by building real projects  
-- Focus on clean, maintainable code and user experience  
-- Experience with both solo and team-based projects  
+- Web Development Student  
+- Learning through hands-on project work  
+- Focus on readable code, structure, and user experience  
+- Experience with both individual and group projects  
 
-Currently looking for **internships, student jobs, or junior roles** in web development.
+Currently seeking opportunities for **internships, student positions, or junior roles** in web development.
 
 🔗 https://github.com/BeastTheNinja
