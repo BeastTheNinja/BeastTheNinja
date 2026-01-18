@@ -47,13 +47,6 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 
 ## 🌟 Udvalgte projekter (afsluttede skoleprojekter)
 
-### 🎲 **Terningespil-Gruppe-5** 🚧 (Igangværende gruppeprojekt)
-🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
-Et interaktiv terningespil hvor spillere vælger "højere" eller "lavere" og kaster terningen. Prototype udviklet i samarbejde med Sebastian, Søren og Greta.  
-**Tech stack:** React, TypeScript, Vite, SCSS
-
----
-
 ### ⚛️ **React_TSX_Vite_Leo_lov** 🚧 (Igangværende)
 🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
 En responsiv one-page hjemmeside til advokatfirmaet Leo-Lov. Mit første React-projekt med fokus på TypeScript, komponenter og responsive design.  
@@ -106,6 +99,13 @@ Gruppeprojekt med fokus på samarbejde, kreativitet og interaktive webfeatures.
 🔗 https://github.com/BeastTheNinja/Learn_DSI_API_DB  
 Læringsprojekt med fokus på API-design, databaseintegration og backend-grundprincipper.  
 **Tech stack:** Node.js, MySQL, JavaScript, TypeScript
+
+---
+
+### 🎲 **Terningespil-Gruppe-5** 
+🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
+Et interaktiv terningespil hvor spillere vælger "højere" eller "lavere" og kaster terningen. Prototype udviklet i samarbejde med Sebastian, Søren og Greta.  
+**Tech stack:** React, TypeScript, Vite, SCSS
 
 ---
 
