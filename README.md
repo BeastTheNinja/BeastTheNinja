@@ -47,21 +47,6 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 
 ## 🌟 Udvalgte projekter (afsluttede skoleprojekter)
 
-
-### 🛒 **Project_Store_Front**
-🔗 https://github.com/BeastTheNinja/Project_Store_Front  
-Produktionsklar webshop bygget fra bunden med fokus på UX, responsivt design og front-end arkitektur.  
-**Tech stack:** HTML, CSS, SCSS, JavaScript
-
----
-
-### 📝 **ToDoAppTDA**
-🔗 https://github.com/BeastTheNinja/ToDoAppTDA  
-En simpel to-do applikation, der demonstrerer CRUD-funktionalitet og grundlæggende designprincipper.  
-**Tech stack:** HTML, CSS, SCSS, JavaScript
-
----
-
 ### 🛠️ **SgtPrepper – Full Stack læringsprojekt**
 Afsluttet full-stack projekt gennemført sammen med underviser.
 
@@ -107,6 +92,13 @@ En responsiv one-page hjemmeside til advokatfirmaet Leo-Lov. Mit første React-p
 🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
 Et interaktiv terningespil hvor spillere vælger "højere" eller "lavere" og kaster terningen. Prototype udviklet i samarbejde med Sebastian, Søren og Greta.  
 **Tech stack:** React, TypeScript, Vite, SCSS
+
+---
+
+### **Make_A_Joke_App**
+🔗 https://github.com/BeastTheNinja/Make_A_Joke_App
+En simpel joke fetch api bygget med react komponenter
+**Tech stack** React, TypeScript, Vite, Tailwind, CSS
 
 ---
 
