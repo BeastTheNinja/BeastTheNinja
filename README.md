@@ -47,12 +47,6 @@ Jeg arbejder primært med skoleprojekter og læringsprojekter, hvor jeg omsætte
 
 ## 🌟 Udvalgte projekter (afsluttede skoleprojekter)
 
-### ⚛️ **React_TSX_Vite_Leo_lov** 🚧 (Igangværende)
-🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
-En responsiv one-page hjemmeside til advokatfirmaet Leo-Lov. Mit første React-projekt med fokus på TypeScript, komponenter og responsive design.  
-**Tech stack:** React, TypeScript, Vite, CSS
-
----
 
 ### 🛒 **Project_Store_Front**
 🔗 https://github.com/BeastTheNinja/Project_Store_Front  
@@ -99,6 +93,13 @@ Gruppeprojekt med fokus på samarbejde, kreativitet og interaktive webfeatures.
 🔗 https://github.com/BeastTheNinja/Learn_DSI_API_DB  
 Læringsprojekt med fokus på API-design, databaseintegration og backend-grundprincipper.  
 **Tech stack:** Node.js, MySQL, JavaScript, TypeScript
+
+---
+
+### ⚛️ **React_TSX_Vite_Leo_lov**
+🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
+En responsiv one-page hjemmeside til advokatfirmaet Leo-Lov. Mit første React-projekt med fokus på TypeScript, komponenter og responsive design.  
+**Tech stack:** React, TypeScript, Vite, CSS
 
 ---
 
