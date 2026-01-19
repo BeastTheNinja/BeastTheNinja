@@ -12,20 +12,20 @@ I primarily work on school and learning projects where I apply theory through pr
 ## 🚀 Technologies & Tools
 
 ### 💻 Frontend / Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🖥️ Scripting / Programming
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### ⚛️ Framework / Library
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ### 🗄️ Backend / Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### 🔧 Version Control
@@ -45,35 +45,7 @@ I primarily work on school and learning projects where I apply theory through pr
 
 ---
 
-## 🌟 Featured Projects (Completed)
-
-### 🎲 **Terningespil-Gruppe-5** 🚧 (Ongoing Group Project)
-🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
-An interactive dice game where players choose "higher" or "lower" and roll the dice. Prototype developed in collaboration with Sebastian, Søren, and Greta.  
-**Tech stack:** React, TypeScript, Vite, SCSS
-
----
-
-### ⚛️ **React_TSX_Vite_Leo_lov** 🚧 (Work in Progress)
-🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
-A responsive one-page website for the law firm Leo-Lov. My first React project focused on TypeScript, components, and responsive design.  
-**Tech stack:** React, TypeScript, Vite, CSS
-
----
-
-### 🛒 **Project_Store_Front**
-🔗 https://github.com/BeastTheNinja/Project_Store_Front  
-Production-ready storefront built from scratch, with strong focus on UX, responsive design, and front-end architecture.  
-**Tech stack:** HTML, CSS, SCSS, JavaScript
-
----
-
-### 📝 **ToDoAppTDA**
-🔗 https://github.com/BeastTheNinja/ToDoAppTDA  
-A simple to-do application demonstrating CRUD functionality and core UI principles.  
-**Tech stack:** HTML, CSS, SCSS, JavaScript
-
----
+## 🌟 Featured Projects (Completed School Projects)
 
 ### 🛠️ **SgtPrepper – Full Stack Learning Project**
 Completed full-stack project developed alongside instructor.
@@ -106,6 +78,27 @@ Group project focusing on collaboration, creativity, and interactive web feature
 🔗 https://github.com/BeastTheNinja/Learn_DSI_API_DB  
 Learning project focused on API design, database integration, and backend fundamentals.  
 **Tech stack:** Node.js, MySQL, JavaScript, TypeScript
+
+---
+
+### ⚛️ **React_TSX_Vite_Leo_lov**
+🔗 https://github.com/BeastTheNinja/React_TSX_Vite_Leo_lov  
+A responsive one-page website for the law firm Leo-Lov. My first React project focused on TypeScript, components, and responsive design.  
+**Tech stack:** React, TypeScript, Vite, CSS
+
+---
+
+### 🎲 **Terningespil-Gruppe-5** 
+🔗 https://github.com/Greta-Alfredsdottir/Terningespil-Gruppe-5  
+An interactive dice game where players choose "higher" or "lower" and roll the dice. Prototype developed in collaboration with Sebastian, Søren, and Greta.  
+**Tech stack:** React, TypeScript, Vite, SCSS
+
+---
+
+### **Make_A_Joke_App**
+🔗 https://github.com/BeastTheNinja/Make_A_Joke_App
+A simple joke fetch API built with React components
+**Tech stack** React, TypeScript, Vite, Tailwind, CSS
 
 ---
 
